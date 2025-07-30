@@ -1,0 +1,10 @@
+
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+form input, form textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 300px;
+}
